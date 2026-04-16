@@ -198,6 +198,12 @@ triggers:
 - "你怎么看待 AI 应用开发岗位的未来？"
 - "你认为 AI 会替代程序员吗？"
 
+**AI 工具兴趣触发（可选扩展）**
+
+如果候选人在项目介绍或对话中表现出对 AI 相关主题的兴趣或经验（如用过 Copilot/Cursor/Claude Code、有 RAG/Agent/MCP 开发经验、了解 Vibe Coding 等），面试官可从 AI 应用开发知识库中选题，在本模块替换或追加提问。
+
+详见 `references/ai-dev-knowledge-base.md`
+
 #### 模块 E：实操编码题（5-15 分钟，仅在候选人选择"需要"时进行）
 
 **流程**：
@@ -260,3 +266,5 @@ triggers:
 - `references/interviewer-styles.md` — 六种面试官风格详解，包括话术示例
 - `references/tech-knowledge-base.md` — AI 应用开发技术知识库，涵盖高频面试题
 - `references/evaluation-rubric.md` — 评分标准与分人群反馈模板
+- `references/ai-dev-knowledge-base.md` — AI 应用开发知识库（可选扩展，候选人有 AI 开发经验时启用）
+- `references/coding-challenges.md` — 实操编码题库（可选）
